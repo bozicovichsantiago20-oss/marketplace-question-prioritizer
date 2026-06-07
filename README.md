@@ -1,6 +1,6 @@
 # Marketplace Question Prioritizer
 
-Recommended entry: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=github-readme&utm_campaign=marketplace-question-prioritizer?src=github-readme&utm_campaign=marketplace-question-prioritizer
+Recommended entry: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=github-readme&utm_campaign=marketplace-question-prioritizer
 
 Free no-login browser tool for marketplace sellers.
 
